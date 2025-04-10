@@ -1,5 +1,5 @@
 {
-    "family": "inft1210-task",
+    "family": "pathan-task",
     "networkMode": "awsvpc",
     "containerDefinitions": [
       {
