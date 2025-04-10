@@ -29,7 +29,7 @@ jobs:
     # Build and push Docker image
     - name: Build and push Docker image
       env:
-        ECR_REGISTRY: 975050105141.dkr.ecr.ca-central-1.amazonaws.com
+        ECR_REGISTRY: 664418999049.dkr.ecr.ca-central-1.amazonaws.com/pathan-final-api
         ECR_REPOSITORY: pathan-final-api
         IMAGE_TAG: latest
       run: |
